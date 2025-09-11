@@ -1,0 +1,121 @@
+company,rocket_and_payload,date_and_location,details_url,Status,Price,Liftoff Thrust,Payload to LEO,Payload to GTO,Stages,Strap-ons,Rocket Height,Fairing Diameter,Fairing Height
+Roscosmos,Soyuz 2.1a | Progress MS-32,"Thu Sep 11, 2025 12:54 GMT-3
+Site 31/6, Baikonur Cosmodrome, Kazakhstan",https://nextspaceflight.com/launches/details/7710,Active,$17.42 million,"4,550 kN","7,500 kg",0 kg,3,4,51.38 m,4.11 m,15.59 m
+SpaceX,Falcon 9 Block 5 | Tranche 1 Transport Layer B,"Wed Sep 10, 2025 11:12 GMT-3
+SLC-4E, Vandenberg SFB, California, USA",https://nextspaceflight.com/launches/details/7219,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+CASC,Long March 7A | Yaogan 45,"Mon Sep 8, 2025 23:00 GMT-3
+LC-201, Wenchang Space Launch Site, China",https://nextspaceflight.com/launches/details/7943,Active,,"7,128 kN","12,000 kg","7,000 kg",3,4,58.0 m,4.2 m,12.4 m
+Chinarocket,Jielong 3 | Geely Constellation Group 05,"Mon Sep 8, 2025 16:48 GMT-3
+Oriental Spaceport Launch Ship (Area 1), China Coastal Waters",https://nextspaceflight.com/launches/details/7942,Active,,,"1,500 kg",,4,0,31.0 m,3.35 m,
+SpaceX,Falcon 9 Block 5 | Starlink Group 17-9,"Sat Sep 6, 2025 2:06 PM GMT-4
+SLC-4E, Vandenberg SFB, California, USA",https://nextspaceflight.com/launches/details/7935,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+CASC,Long March 6A | Yaogan 40 Group 03,"Sat Sep 6, 2025 12:34 PM GMT-4
+LC-9A, Taiyuan Satellite Launch Center, China",https://nextspaceflight.com/launches/details/7940,Active,,"7,230 kN","5,000 kg",,2,4,50.0 m,4.2 m,5.7 m
+SpaceX,Falcon 9 Block 5 | Starlink Group 10-57,"Fri Sep 5, 2025 8:32 AM GMT-4
+LC-39A, Kennedy Space Center, Florida, USA",https://nextspaceflight.com/launches/details/7934,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+Galactic Energy,Ceres 1 | 3 satellites,"Fri Sep 5, 2025 7:39 AM GMT-4
+Site 95A, Jiuquan Satellite Launch Center, China",https://nextspaceflight.com/launches/details/7939,Active,$4.38 million,588 kN,400 kg,0 kg,4,0,19.0 m,1.4 m,2.5 m
+CASC,Long March 3C/YZ-1 | Shiyan 29,"Thu Sep 4, 2025 10:34 PM GMT-4
+LC-2, Xichang Satellite Launch Center, China",https://nextspaceflight.com/launches/details/7938,Active,$20.0 million,"5,923 kN","7,500 kg","3,500 kg",4,2,55.64 m,4.2 m,9.78 m
+SpaceX,Falcon 9 Block 5 | Starlink Group 10-22,"Wed Sep 3, 2025 7:56 AM GMT-4
+SLC-40, Cape Canaveral SFS, Florida, USA",https://nextspaceflight.com/launches/details/7930,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+SpaceX,Falcon 9 Block 5 | Starlink Group 17-8,"Tue Sep 2, 2025 11:51 PM GMT-4
+SLC-4E, Vandenberg SFB, California, USA",https://nextspaceflight.com/launches/details/7931,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+IAI,Shavit 2 | Ofek-19,"Tue Sep 2, 2025 3:30 PM GMT-4
+Pad 1, Palmachim Airbase, Israel",https://nextspaceflight.com/launches/details/7937,Active,,554 kN,350 kg,,3,0,22.0 m,1.35 m,4.37 m
+SpaceX,Falcon 9 Block 5 | Starlink Group 10-14,"Sun Aug 31, 2025 7:49 AM GMT-4
+SLC-40, Cape Canaveral SFS, Florida, USA",https://nextspaceflight.com/launches/details/7926,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+SpaceX,Falcon 9 Block 5 | Starlink Group 17-7,"Sat Aug 30, 2025 12:59 AM GMT-4
+SLC-4E, Vandenberg SFB, California, USA",https://nextspaceflight.com/launches/details/7917,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+SpaceX,Falcon 9 Block 5 | Starlink Group 10-11,"Thu Aug 28, 2025 4:12 AM GMT-4
+LC-39A, Kennedy Space Center, Florida, USA",https://nextspaceflight.com/launches/details/7913,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+SpaceX,Falcon 9 Block 5 | Starlink Group 10-56,"Wed Aug 27, 2025 7:10 AM GMT-4
+SLC-40, Cape Canaveral SFS, Florida, USA",https://nextspaceflight.com/launches/details/7927,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+SpaceX,Starship-Super Heavy v2 | Starship Flight 10,"Tue Aug 26, 2025 7:30 PM GMT-4
+Pad 1, Starbase, Texas, USA",https://nextspaceflight.com/launches/details/7885,Active,,"74,400 kN","35,000 kg",,2,,123.1 m,9.0 m,
+SpaceX,Falcon 9 Block 5 | NAOS (LUXEOSys) & Others,"Tue Aug 26, 2025 2:53 PM GMT-4
+SLC-4E, Vandenberg SFB, California, USA",https://nextspaceflight.com/launches/details/969,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+CASC,Long March 8A | SatNet LEO Group 10,"Mon Aug 25, 2025 3:08 PM GMT-4
+Commercial LC-1, Wenchang Space Launch Site, China",https://nextspaceflight.com/launches/details/7925,Active,,"4,894 kN","9,800 kg","3,500 kg",2,2,50.54 m,5.2 m,
+SpaceX,Falcon 9 Block 5 | CRS SpX-33,"Sun Aug 24, 2025 2:45 AM GMT-4
+SLC-40, Cape Canaveral SFS, Florida, USA",https://nextspaceflight.com/launches/details/6915,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+Rocket Lab,"Electron/Curie | Live, Laugh, Launch","Sat Aug 23, 2025 6:42 PM GMT-4
+Rocket Lab LC-1A, Māhia Peninsula, New Zealand",https://nextspaceflight.com/launches/details/7883,Active,$7.5 million,224 kN,320 kg,,3,0,18.0 m,1.2 m,4.05 m
+SpaceX,Falcon 9 Block 5 | Starlink Group 17-6,"Fri Aug 22, 2025 1:04 PM GMT-4
+SLC-4E, Vandenberg SFB, California, USA",https://nextspaceflight.com/launches/details/7915,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+SpaceX,Falcon 9 Block 5 | USSF-36 (OTV-8),"Thu Aug 21, 2025 11:50 PM GMT-4
+LC-39A, Kennedy Space Center, Florida, USA",https://nextspaceflight.com/launches/details/6149,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+VKS RF,Angara 1.2 | Cosmos 2590-2593 (?),"Thu Aug 21, 2025 5:32 AM GMT-4
+Site 35/1, Plesetsk Cosmodrome, Russia",https://nextspaceflight.com/launches/details/7923,Active,,"1,922 kN","3,800 kg",0 kg,2,0,42.7 m,3.0 m,2.9 m
+Roscosmos,Soyuz 2.1b | Bion-M n°2,"Wed Aug 20, 2025 1:13 PM GMT-4
+Site 31/6, Baikonur Cosmodrome, Kazakhstan",https://nextspaceflight.com/launches/details/4360,Active,$20.0 million,"4,550 kN","8,020 kg",0 kg,3,4,44.08 m,4.11 m,8.36 m
+CAS Space,Kinetica 1 | 7 satellites,"Tue Aug 19, 2025 3:33 AM GMT-4
+Site 130, Jiuquan Satellite Launch Center, China",https://nextspaceflight.com/launches/details/7920,Active,,,"2,000 kg","1,500 kg",4,0,31.0 m,3.35 m,
+SpaceX,Falcon 9 Block 5 | Starlink Group 17-5,"Mon Aug 18, 2025 12:26 PM GMT-4
+SLC-4E, Vandenberg SFB, California, USA",https://nextspaceflight.com/launches/details/7914,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+CASC,Long March 6A | SatNet LEO Group 09,"Sun Aug 17, 2025 10:15 AM GMT-4
+LC-9A, Taiyuan Satellite Launch Center, China",https://nextspaceflight.com/launches/details/7921,Active,,"7,230 kN","5,000 kg",,2,4,50.0 m,4.2 m,5.7 m
+CASC,Long March 4C | Shiyan 28 B-02,"Sun Aug 17, 2025 4:55 AM GMT-4
+LC-3, Xichang Satellite Launch Center, China",https://nextspaceflight.com/launches/details/7922,Active,$64.68 million,"2,993 kN","4,200 kg","1,500 kg",3,0,46.97 m,3.8 m,11.74 m
+Landspace,ZhuQue-2E | Unknown Payload,"Thu Aug 14, 2025 9:17 PM GMT-4
+Site 96, Jiuquan Satellite Launch Center, China",https://nextspaceflight.com/launches/details/7919,Active,,"2,880 kN","6,000 kg",,2,0,49.5 m,3.35 m,5.0 m
+SpaceX,Falcon 9 Block 5 | Starlink Group 10-20,"Thu Aug 14, 2025 8:29 AM GMT-4
+SLC-40, Cape Canaveral SFS, Florida, USA",https://nextspaceflight.com/launches/details/7912,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+SpaceX,Falcon 9 Block 5 | Starlink Group 17-4,"Thu Aug 14, 2025 1:05 AM GMT-4
+SLC-4E, Vandenberg SFB, California, USA",https://nextspaceflight.com/launches/details/7907,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+CASC,Long March 5B/YZ-2 | SatNet LEO Group 08,"Wed Aug 13, 2025 2:43 AM GMT-4
+LC-101, Wenchang Space Launch Site, China",https://nextspaceflight.com/launches/details/7918,Active,,"10,565 kN","15,000 kg",,3,4,53.66 m,5.2 m,20.5 m
+ULA,Vulcan VC4S | USSF-106 (NTS-3 & USA-554),"Tue Aug 12, 2025 8:56 PM GMT-4
+SLC-41, Cape Canaveral SFS, Florida, USA",https://nextspaceflight.com/launches/details/5054,Active,,"13,006 kN","24,600 kg","11,693 kg",2,4,61.6 m,5.4 m,15.5 m
+Arianespace,Ariane 62 | METOP-SG A1,"Tue Aug 12, 2025 8:37 PM GMT-4
+ELA-4, Guiana Space Centre, French Guiana, France",https://nextspaceflight.com/launches/details/2017,Active,$88.0 million,"8,370 kN","10,350 kg","4,500 kg",2,2,62.0 m,5.4 m,20.0 m
+SpaceX,Falcon 9 Block 5 | Project Kuiper (KF-02),"Mon Aug 11, 2025 8:35 AM GMT-4
+SLC-40, Cape Canaveral SFS, Florida, USA",https://nextspaceflight.com/launches/details/7380,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+Chinarocket,Jielong 3 | Geely Constellation Group 04,"Fri Aug 8, 2025 12:31 PM GMT-4
+Oriental Spaceport Launch Ship (Area 1), China Coastal Waters",https://nextspaceflight.com/launches/details/7916,Active,,,"1,500 kg",,4,0,31.0 m,3.35 m,
+Rocket Lab,Electron/Curie | The Harvest Goddess Thrives,"Tue Aug 5, 2025 12:10 AM GMT-4
+Rocket Lab LC-1B, Māhia Peninsula, New Zealand",https://nextspaceflight.com/launches/details/7769,Active,$7.5 million,224 kN,320 kg,,3,0,18.0 m,1.2 m,4.05 m
+CASC,Long March 12 | SatNet LEO Group 07,"Mon Aug 4, 2025 6:21 AM GMT-4
+Commercial LC-2, Wenchang Space Launch Site, China",https://nextspaceflight.com/launches/details/7844,Active,,"5,000 kN","12,000 kg",,2,0,59.0 m,3.8 m,5.2 m
+SpaceX,Falcon 9 Block 5 | Starlink Group 10-30,"Mon Aug 4, 2025 3:57 AM GMT-4
+SLC-40, Cape Canaveral SFS, Florida, USA",https://nextspaceflight.com/launches/details/7910,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+Blue Origin,New Shepard | NS-34,"Sun Aug 3, 2025 8:42 AM GMT-4
+Launch Site One, West Texas, Texas, USA",https://nextspaceflight.com/launches/details/7905,Active,,490 kN,0 kg,0 kg,2,0,18.0 m,,
+SpaceX,Falcon 9 Block 5 | SpaceX Crew-11,"Fri Aug 1, 2025 11:43 AM GMT-4
+LC-39A, Kennedy Space Center, Florida, USA",https://nextspaceflight.com/launches/details/6970,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+SpaceX,"Falcon 9 Block 5 | Starlink Group 13-4, USA 549 & USA 550","Thu Jul 31, 2025 2:35 PM GMT-4
+SLC-4E, Vandenberg SFB, California, USA",https://nextspaceflight.com/launches/details/7903,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+ExPace,Kuaizhou 1A | PRSC-S1,"Wed Jul 30, 2025 10:00 PM GMT-4
+Mobile Launcher Pad, Xichang Satellite Launch Center, China",https://nextspaceflight.com/launches/details/7909,Active,$5.8 million,537 kN,300 kg,0 kg,4,0,19.8 m,1.4 m,3.4 m
+ISRO,GSLV Mk II | NISAR,"Wed Jul 30, 2025 8:10 AM GMT-4
+Second Launch Pad, Satish Dhawan Space Centre, India",https://nextspaceflight.com/launches/details/4085,Active,$47.0 million,"7,887 kN","5,000 kg","2,500 kg",3,4,51.7 m,4.0 m,7.8 m
+CASC,Long March 8A | SatNet LEO Group 06,"Wed Jul 30, 2025 3:49 AM GMT-4
+Commercial LC-1, Wenchang Space Launch Site, China",https://nextspaceflight.com/launches/details/7835,Active,,"4,894 kN","9,800 kg","3,500 kg",2,2,50.54 m,5.2 m,
+SpaceX,Falcon 9 Block 5 | Starlink Group 10-29,"Tue Jul 29, 2025 11:37 PM GMT-4
+SLC-40, Cape Canaveral SFS, Florida, USA",https://nextspaceflight.com/launches/details/7906,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+Gilmour,Eris | TestFlight1,"Tue Jul 29, 2025 6:35 PM GMT-4
+Orbital Launch Pad, Bowen Orbital Spaceport, Australia",https://nextspaceflight.com/launches/details/7504,Active,,,305 kg,,3,,25.0 m,1.5 m,
+iSpace,Hyperbola 1 | Kunpeng-03,"Tue Jul 29, 2025 12:11 AM GMT-4
+Site 95A, Jiuquan Satellite Launch Center, China",https://nextspaceflight.com/launches/details/7904,Active,,557 kN,300 kg,0 kg,4,0,21.0 m,1.2 m,2.2 m
+CASC,Long March 6A | SatNet LEO Group 05,"Sun Jul 27, 2025 6:03 AM GMT-4
+LC-9A, Taiyuan Satellite Launch Center, China",https://nextspaceflight.com/launches/details/7908,Active,,"7,230 kN","5,000 kg",,2,4,50.0 m,4.2 m,5.7 m
+SpaceX,Falcon 9 Block 5 | Starlink Group 17-2,"Sun Jul 27, 2025 12:31 AM GMT-4
+SLC-4E, Vandenberg SFB, California, USA",https://nextspaceflight.com/launches/details/7900,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+SpaceX,Falcon 9 Block 5 | Starlink Group 10-26,"Sat Jul 26, 2025 5:01 AM GMT-4
+SLC-40, Cape Canaveral SFS, Florida, USA",https://nextspaceflight.com/launches/details/7902,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+Arianespace,Vega C | CO3D & MicroCarb,"Fri Jul 25, 2025 10:03 PM GMT-4
+ELV, Guiana Space Centre, French Guiana, France",https://nextspaceflight.com/launches/details/7713,Active,,"4,500 kN","2,300 kg",,4,0,35.0 m,3.3 m,9.0 m
+Roscosmos,"Soyuz 2.1b/Fregat-M | Ionosfera-M n°3, 4","Fri Jul 25, 2025 1:54 AM GMT-4
+Site 1S, Vostochny Cosmodrome, Russia",https://nextspaceflight.com/launches/details/7762,Active,$25.0 million,"4,550 kN","7,500 kg","3,250 kg",4,4,46.94 m,4.11 m,11.43 m
+SpaceX,Falcon 9 Block 5 | TRACERS & Others,"Wed Jul 23, 2025 2:13 PM GMT-4
+SLC-4E, Vandenberg SFB, California, USA",https://nextspaceflight.com/launches/details/7721,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+SpaceX,Falcon 9 Block 5 | O3b mPOWER 9 & 10,"Tue Jul 22, 2025 5:12 PM GMT-4
+SLC-40, Cape Canaveral SFS, Florida, USA",https://nextspaceflight.com/launches/details/4881,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+SpaceX,Falcon 9 Block 5 | Starlink Group 17-3,"Fri Jul 18, 2025 11:52 PM GMT-4
+SLC-4E, Vandenberg SFB, California, USA",https://nextspaceflight.com/launches/details/7899,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+SpaceX,Falcon 9 Block 5 | Project Kuiper (KF-01),"Wed Jul 16, 2025 2:30 AM GMT-4
+SLC-40, Cape Canaveral SFS, Florida, USA",https://nextspaceflight.com/launches/details/7378,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+SpaceX,Falcon 9 Block 5 | Starlink Group 15-2,"Tue Jul 15, 2025 10:05 PM GMT-4
+SLC-4E, Vandenberg SFB, California, USA",https://nextspaceflight.com/launches/details/7898,Active,$69.75 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+CASC,Long March 7 | Tianzhou 9,"Mon Jul 14, 2025 5:34 PM GMT-4
+LC-201, Wenchang Space Launch Site, China",https://nextspaceflight.com/launches/details/7810,Active,,"7,128 kN","13,500 kg","5,500 kg",2,4,53.1 m,4.2 m,12.4 m
